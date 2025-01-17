@@ -1,4 +1,4 @@
-# RISC-V Assembly Instructions Breakdown
+# 15 RISC-V Assembly Instructions Breakdown
 ## **1. lui a0, 0x2B**  
 *Opcode (U-Type):* 0110111  
 *Registers:* rd = a0 (00101)  
@@ -164,14 +164,5 @@
 
 ---
 
-## **16. auipc a0, 0x0**  
-*Opcode (U-Type):* 0010111  
-*Registers:* rd = a0 (00101)  
-*Immediate:* 0x0 (0000000000000000)  
 
-| imm[31:12] | rd (a0) | opcode  |
-|------------|---------|---------|
-| 0000000000000000 | 00101 | 0010111 |
-
----
 
