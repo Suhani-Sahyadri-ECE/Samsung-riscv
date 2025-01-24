@@ -3,7 +3,8 @@ This is a VSD Squadron-Mini Internship Program which explores the RISC-V process
 deeply learn about VLSI Design using the open source tools.The instructor and guide for this 
 internship program is Mr.Kunal Ghosh,Co-Founder of VSD. 
 
-# Basic Details
+# BASIC DETAILS
+
 # Name:SUHANI D
 # College:Sahyadri College Of Engineering And Management,Adyar,Mangaluru.
 # Email ID:dsuhani2004@gmail.com or suhani.ec22@sahyadri.edu.in
