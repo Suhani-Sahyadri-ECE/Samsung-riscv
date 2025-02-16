@@ -10,7 +10,7 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 ## Email ID:dsuhani2004@gmail.com or suhani.ec22@sahyadri.edu.in
 ## Linkedin:Suhani D
 
-# <To install leafpad and to create terminal of c and risc and to obtain their output>Task 1
+# <To install leafpad and to create terminal of c and risc and to obtain their outputTask 1>
 ## Installation of leafpad
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/014b68a93b6f9afcb197c9db4b31f95b56f6532f/TASK1/leafpad%20install.png)
 ## Terminal of c
