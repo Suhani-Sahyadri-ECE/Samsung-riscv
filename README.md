@@ -207,9 +207,19 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 
 ---
 # Task 4 :Functional simulation of RISC-V core verilog and netlist
-## Step 1:Download the gtkwave and iverilog
+## Steps:
+## > Download the gtkwave and iverilog using commands
 ![img alt](https://github.com/user-attachments/assets/23fa7154-26a8-4e91-9772-d8a6309df545)
 ![img alt](https://github.com/user-attachments/assets/f7348491-9795-421b-8432-4bcb71b972f4)
+## > Copy the code from the reference github repo and paste it in your verilog and testbench files.
+## > To run and simulate the verilog code, enter the following command in the terminal:
+![img alt](https://github.com/user-attachments/assets/a31b84d3-11fd-4e50-802a-b6229c48a7e4)
+![img alt](https://github.com/user-attachments/assets/46acad70-81c1-4d9b-98cb-6262b95681c8)
+## To see the simulation waveform in GTKWave, enter the following command:
+![img alt](https://github.com/user-attachments/assets/6c4dd9c0-21dc-43f1-a9d7-16c3d7831fea)
+
+
+
 
 
 
