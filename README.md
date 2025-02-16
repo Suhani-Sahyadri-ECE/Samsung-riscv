@@ -217,6 +217,15 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 ![img alt](https://github.com/user-attachments/assets/46acad70-81c1-4d9b-98cb-6262b95681c8)
 ## To see the simulation waveform in GTKWave, enter the following command:
 ![img alt](https://github.com/user-attachments/assets/6c4dd9c0-21dc-43f1-a9d7-16c3d7831fea)
+## The output waveform 
+### Instruction 1:add r6,r2,r1
+### Instruction 1:addi r12,r4,r5
+### Instruction 1:and r8,r1,r3
+### Instruction 1:beq r0,r0,r15
+### Instruction 1:or r9,r2,r5
+### Instruction 1:slt r11,r2,r4
+### Instruction 2:sub r7,r1,r2
+### Instruction 1:xor r10,r1,r4
 
 
 
