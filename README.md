@@ -12,7 +12,7 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 
 # Task 1
 ## Installation of leafpad
-https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/014b68a93b6f9afcb197c9db4b31f95b56f6532f/TASK1/leafpad%20install.png
+![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/014b68a93b6f9afcb197c9db4b31f95b56f6532f/TASK1/leafpad%20install.png)
 ## Terminal of c
 https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/014b68a93b6f9afcb197c9db4b31f95b56f6532f/TASK1/terminal%20of%20cbased.png
 ## Output of c terminal
