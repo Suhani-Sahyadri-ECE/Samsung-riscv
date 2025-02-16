@@ -215,9 +215,9 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 ## > To run and simulate the verilog code, enter the following command in the terminal:
 ![img alt](https://github.com/user-attachments/assets/a31b84d3-11fd-4e50-802a-b6229c48a7e4)
 ![img alt](https://github.com/user-attachments/assets/46acad70-81c1-4d9b-98cb-6262b95681c8)
-## To see the simulation waveform in GTKWave, enter the following command:
+## >To see the simulation waveform in GTKWave, enter the following command:
 ![img alt](https://github.com/user-attachments/assets/6c4dd9c0-21dc-43f1-a9d7-16c3d7831fea)
-## The output waveform 
+## >The output waveform 
 ### Instruction 1:add r6,r2,r1
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/184f770b31201eee0599171d614c1a23fdb62835/Task4/ADD.png)
 ### Instruction 2:addi r12,r4,r5
