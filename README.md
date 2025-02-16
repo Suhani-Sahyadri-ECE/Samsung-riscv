@@ -23,4 +23,20 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/014b68a93b6f9afcb197c9db4b31f95b56f6532f/TASK1/risc.png)
 
 # Task 2 :Simulation of SPIKE
-## 
+## Evenodd code
+![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/d978fa8c89f40b4273210b89d0750476d2bb41a5/Task2/evenodd%20code.png)
+## o1 of evenodd code
+![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/d978fa8c89f40b4273210b89d0750476d2bb41a5/Task2/o1%20even.o.png)
+## object dump of o1 evenodd code
+![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/d978fa8c89f40b4273210b89d0750476d2bb41a5/Task2/objdump%20o1.png)
+## object dump of ofast evenodd code
+![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/d978fa8c89f40b4273210b89d0750476d2bb41a5/Task2/objdump%20ofast.png)
+## ofast of evenodd code
+![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/d978fa8c89f40b4273210b89d0750476d2bb41a5/Task2/ofast%20even.o.png)
+## spike simulation review
+![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/d978fa8c89f40b4273210b89d0750476d2bb41a5/Task2/spike%20sim%20review.png)
+## spike simulation
+![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/d978fa8c89f40b4273210b89d0750476d2bb41a5/Task2/spikesim.png)
+
+# Task 3 :RISC-V Instruction types
+
