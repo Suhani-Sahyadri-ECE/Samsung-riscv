@@ -10,8 +10,8 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 ## Email ID:dsuhani2004@gmail.com or suhani.ec22@sahyadri.edu.in
 ## Linkedin:Suhani D
 
-# Task 1
-## <Installation of leafpad
+# Task 1 :Installation of RISC-V toolchain using VDI link
+## Installation of leafpad
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/014b68a93b6f9afcb197c9db4b31f95b56f6532f/TASK1/leafpad%20install.png)
 ## Terminal of c
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/014b68a93b6f9afcb197c9db4b31f95b56f6532f/TASK1/terminal%20of%20cbased.png)
@@ -20,4 +20,7 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 ## Terminal of risc
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/014b68a93b6f9afcb197c9db4b31f95b56f6532f/TASK1/riscterminal.png)
 ## Output of risc
-![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/014b68a93b6f9afcb197c9db4b31f95b56f6532f/TASK1/risc.png)>
+![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/014b68a93b6f9afcb197c9db4b31f95b56f6532f/TASK1/risc.png)
+
+# Task 2 :Simulation of SPIKE
+## 
