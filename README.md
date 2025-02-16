@@ -5,7 +5,7 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 
 # BASIC DETAILS
 
-# Name:SUHANI D
+## Name:SUHANI D
 # College:Sahyadri College Of Engineering And Management,Adyar,Mangaluru.
 # Email ID:dsuhani2004@gmail.com or suhani.ec22@sahyadri.edu.in
 # Linkedin:Suhani D
