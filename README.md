@@ -235,7 +235,7 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 ### Instruction 8:xor r10,r1,r4
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/184f770b31201eee0599171d614c1a23fdb62835/Task4/xor.png)
 ### Waveforms
-![img alt](
+![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/218abe45cc6926d0329954755b5181b96cf24122/Task4/waveforms.png)
 
 
 
