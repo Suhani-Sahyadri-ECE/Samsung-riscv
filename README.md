@@ -26,7 +26,7 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 </details>
   
 <details>
-<summary> Task 2 :Simulation of SPIKE</summary>
+<summary>Task 2 :Simulation of SPIKE</summary>
 ## Evenodd code
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/d978fa8c89f40b4273210b89d0750476d2bb41a5/Task2/evenodd%20code.png)
 ## o1 of evenodd code
