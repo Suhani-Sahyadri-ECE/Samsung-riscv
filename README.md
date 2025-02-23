@@ -11,8 +11,8 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 ## Linkedin:Suhani D
 
 <details>
-<summary> <b> # Task 1 :</b> Installation of RISC-V toolchain using VDI link </summary>
-<br>
+<summary>Task 1 :Installation of RISC-V toolchain using VDI link </summary>
+
 ## Installation of leafpad
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/014b68a93b6f9afcb197c9db4b31f95b56f6532f/TASK1/leafpad%20install.png)
 ## Terminal of c
