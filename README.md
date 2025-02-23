@@ -276,14 +276,38 @@ This project aims to design a simple button-controlled buzzer system using the V
 | **Breadboard**             | 1           | For prototyping                                 |
 
 ##   Pinout Diagram
- +----------------------+
-       |  VSD Squadron Mini   |
-       |----------------------|
-       |  PD0  -> Push Button |
-       |  PD2  -> Buzzer      |
-       |  VCC  -> 3.3V        |
-       |  GND  -> Ground      |
-       +----------------------+
+
+| **Component**  | **Pin** | **VSD Squadron Mini Pin** | **Connection Description**  |
+|---------------|--------|--------------------------|-----------------------------|
+| **Push Button** | 1     | **PD0**                   | Connected as input with internal pull-up |
+| **Push Button** | 2     | **GND**                   | Button grounded when pressed |
+| **Buzzer**     | +      | **PD2**                   | Buzzer control pin (Output) |
+| **Buzzer**     | -      | **GND**                   | Ground connection |
+| **VSD Squadron Mini** | **VCC** | **3.3V** | Power Supply |
+
+## Breadboard Connection
+
+![img alt](https://github.com/user-attachments/assets/f1437c47-b605-412e-bc37-7c98f00f038b)
+
+## Pinout Diagram
+
+![img alt](https://github.com/user-attachments/assets/986f9fa4-c643-4a9e-bd7e-2853a835deac)
+
+</details>
+
+<details>
+<summary>Task 6 Application of the project</summary>
+
+## Project Implementation
+
+
+
+
+
+
+
+
+
 
 
 
