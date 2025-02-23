@@ -1,0 +1,47 @@
+#include <ch32v00x.h>
+#include <debug.h>
+
+void GPIO_Config(void) {
+    GPIO_InitTypeDef GPIO_InitStructure = {0};
+
+    // Enable GPIO clock
+    RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOD, ENABLE);
+
+    // Configure PD0 as Input (Button)
+    GPIO_InitStructure.GPIO_Pin = GPIO_Pin_0;
+    GPIO_InitStructure.GPIO_Mode = GPIO_Mode_IPU;  // Enable internal pull-up
+    GPIO_Init(GPIOD, &GPIO_InitStructure);
+
+    // Configure PD2 as Output (Buzzer)
+    GPIO_InitStructure.GPIO_Pin = GPIO_Pin_2;
+    GPIO_InitStructure.GPIO_Mode = GPIO_Mode_Out_PP;
+    GPIO_InitStructure.GPIO_Speed = GPIO_Speed_50MHz;
+    GPIO_Init(GPIOD, &GPIO_InitStructure);
+}
+
+uint8_t debounce_button() {
+    if (GPIO_ReadInputDataBit(GPIOD, GPIO_Pin_0) == 0) {  // Button pressed
+        Delay_Ms(50);  // Debounce delay
+        if (GPIO_ReadInputDataBit(GPIOD, GPIO_Pin_0) == 0) {  // Confirm press
+            while (GPIO_ReadInputDataBit(GPIOD, GPIO_Pin_0) == 0);  // Wait for release
+            Delay_Ms(50);  // Debounce release
+            return 1;  // Valid press detected
+        }
+    }
+    return 0;
+}
+
+int main(void) {
+    SystemCoreClockUpdate();
+    Delay_Init();
+    GPIO_Config();
+
+    uint8_t buzzer_state = 0;  // 0 = OFF, 1 = ON
+
+    while (1) {
+        if (debounce_button()) {  
+            buzzer_state = !buzzer_state;  // Toggle buzzer state
+            GPIO_WriteBit(GPIOD, GPIO_Pin_2, buzzer_state ? SET : RESET);
+        }
+    }
+}
