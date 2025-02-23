@@ -217,7 +217,7 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 </details>
 
 <details>
-<summary></summary>Task 4 :Functional simulation of RISC-V core verilog and netlist</summary>
+<summary>Task 4 :Functional simulation of RISC-V core verilog and netlist</summary>
   
 ## Steps:
 ## > Download the gtkwave and iverilog using commands
@@ -249,6 +249,31 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 ### Waveforms
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/218abe45cc6926d0329954755b5181b96cf24122/Task4/waveforms.png)
 </details>
+
+
+<details>
+<summary>Task 5:Project name and overview of the project</summary>
+
+# Project Name:Button-Controlled Buzzer Using VSD Squadron Mini
+## Project overview
+This project aims to design a simple button-controlled buzzer system using the VSD Squadron Mini (CH32V003 RISC-V microcontroller). The system allows users to toggle the buzzer ON and OFF using a push button.
+
+## How It Works:
+### >A push button is connected to the microcontroller’s PD0 pin.
+### >A buzzer is connected to PD2, which acts as an output.
+### >When the button is pressed, the microcontroller detects the input, debounces the signal, and toggles the buzzer ON or OFF accordingly.
+### >The buzzer remains in its state until the button is pressed again.
+
+| **Component**              | **Quantity** | **Description**                                      |
+|----------------------------|-------------|--------------------------------------------------|
+| **VSD Squadron Mini**      | 1           | CH32V003 RISC-V Microcontroller Board           |
+| **Push Button**            | 1           | Used to toggle the buzzer ON/OFF                |
+| **Buzzer**                 | 1           | Generates sound when toggled ON                 |
+| **10kΩ Resistor (Optional)** | 1           | Pull-down resistor for the button (if needed)   |
+| **Power Supply (3.3V)**    | 1           | Powers the circuit                              |
+| **Jumper Wires**           | As needed   | For making connections                         |
+| **Breadboard**             | 1           | For prototyping
+
 
 
 
