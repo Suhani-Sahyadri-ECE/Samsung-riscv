@@ -296,10 +296,9 @@ This project aims to design a simple button-controlled buzzer system using the V
 </details>
 
 <details>
-<summary>Task 6 Application of the project</summary>
+<summary>Task 6 :Application of the project</summary>
 
 ## Project Implementation
-
 > Gather the required components.
 > Connect the components as per the circuit diagram.
 > Verify Hardware Connections
@@ -319,13 +318,14 @@ This project aims to design a simple button-controlled buzzer system using the V
 ## Applications of the Button-Controlled Buzzer Project
 
 1. Security and Alarm Systems
-2. 2. Medical Alert Systems
+2. Medical Alert Systems
 3. Gaming and Interactive Systems
 4. Notification Systems
 5. Automotive Applications
 6. Robotics and Automation
 7. Embedded Systems and Learning Projects
 8. Assistive Technology
+</details>
 
 
 
