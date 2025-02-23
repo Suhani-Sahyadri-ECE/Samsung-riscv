@@ -25,8 +25,8 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/014b68a93b6f9afcb197c9db4b31f95b56f6532f/TASK1/risc.png)
 </details>
   
-
-# Task 2 :Simulation of SPIKE
+<details>
+<summary> Task 2 :Simulation of SPIKE</summary>
 ## Evenodd code
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/d978fa8c89f40b4273210b89d0750476d2bb41a5/Task2/evenodd%20code.png)
 ## o1 of evenodd code
@@ -41,8 +41,10 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/d978fa8c89f40b4273210b89d0750476d2bb41a5/Task2/spike%20sim%20review.png)
 ## spike simulation
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/d978fa8c89f40b4273210b89d0750476d2bb41a5/Task2/spikesim.png)
+</details>
 
-# Task 3 :RISC-V Instruction types
+<details>
+<summary>Task 3 :RISC-V Instruction types</summary>
 ## 15 instructions
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/20836ab0752ddd92bf859bf1d96791e5ebc5c93a/Task3/ofast%20obj.png)
 # 15 RISC-V Instructions Breakdown
@@ -210,7 +212,10 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 | 0 | 000101 | 0010 | 0 | 00000 | 01111 | 000 | 1100011 |
 
 ---
-# Task 4 :Functional simulation of RISC-V core verilog and netlist
+</details>
+
+<details>
+<summary></summary>Task 4 :Functional simulation of RISC-V core verilog and netlist</summary>
 ## Steps:
 ## > Download the gtkwave and iverilog using commands
 ![img alt](https://github.com/user-attachments/assets/23fa7154-26a8-4e91-9772-d8a6309df545)
@@ -240,6 +245,7 @@ internship program is Mr.Kunal Ghosh,Co-Founder of VSD.
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/184f770b31201eee0599171d614c1a23fdb62835/Task4/xor.png)
 ### Waveforms
 ![img alt](https://github.com/Suhani-Sahyadri-ECE/Samsung-riscv/blob/218abe45cc6926d0329954755b5181b96cf24122/Task4/waveforms.png)
+</details>
 
 
 
